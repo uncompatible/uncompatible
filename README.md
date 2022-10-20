@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=D9E6D1&center=true&width=435&lines=Hello+World!;I'm+dny!" alt="Typing SVG" /></a>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dny&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yeedny&theme=vue)](https://github.com/yeedny/github-readme-activity-graph)
 
 ###
 
