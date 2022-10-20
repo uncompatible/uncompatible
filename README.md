@@ -13,5 +13,5 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeedny&theme=dark&hide_border=false&&layout=compact"/>
   </a>
   <p align="center">
-    <a href="https://github.com/leexey">
+    <a href="https://github.com/yeedny">
 </p><br>
