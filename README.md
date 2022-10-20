@@ -14,3 +14,4 @@
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=73elebw1nuzsqkt7lhl70rgde&cover_image=true&theme=natemoo-re&bar_color=0062ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=73elebw1nuzsqkt7lhl70rgde&redirect=true)
 </div>
 
+</div>
