@@ -1,13 +1,15 @@
-<div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=665c54&center=true&width=435&lines=I'm+dny!;Thank+You+Kennedy!" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/xeyay">
+    <img src="https://discord.c99.nl/widget/theme-4/465608989925834803.png"/>
+     </a>
+  </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yeedny&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-###
 
 <div align="center">
-  <a href="https://github.com/KennedyReisz" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeedny&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyReisz&layout=compact&theme=react"/>
-  
+  <a href="https://github.com/leexey">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leexey&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leexey&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+  <p align="center">
+    <a href="https://github.com/leexey">
+</p><br>
