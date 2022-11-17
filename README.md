@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/xeyay">
-    <img src="htht"/>
+    <img src="https://discord.c99.nl/widget/theme-4/465608989925834803.png"/>
      </a>
   </div>
 
