@@ -18,11 +18,11 @@
   </tr>
 </table>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusAlvarez&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yeedny&theme=gotham)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yeedny&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
